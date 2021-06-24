@@ -1,2 +1,2 @@
-# test-git
-一个测试Git的仓库
+# test-clone
+一个测试git clone的仓库
